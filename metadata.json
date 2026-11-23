@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Markets — 3D Exchange & Stock Simulator",
+  "description": "Interactive Three.js simulator visualizing real-time dynamics across TSX, NASDAQ, and NYSE with seamless shifting to individual stock comparison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
